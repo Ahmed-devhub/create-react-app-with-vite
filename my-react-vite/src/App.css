@@ -1,0 +1,37 @@
+body {
+  background-color: #1a1a2e;
+  font-family: 'Segoe UI', sans-serif;
+  color: #eaeaea;
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #00adb5;
+  margin-top: 1rem;
+}
+
+button {
+  background-color: #00adb5;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+button:hover {
+  background-color: #007c86;
+}
+
+.card {
+  background-color: #222831;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+}
